@@ -1,6 +1,7 @@
 # Description:
 This tool is developed by Meiyi Ma, Eli Lifland and Timothy Davison from the University of Virginia. 
-# Please cite below paper if using this tool in your work: 
+
+Please cite below paper if using this tool in your work: 
 Meiyi Ma, Ezio Bartocci, Eli Lifland, John Stankovic, and Lu Feng. "SaSTL: Spatial Aggregation Signal Temporal Logic for Runtime Monitoring in Smart Cities." In 2020 ACM/IEEE 11th International Conference on Cyber-Physical Systems (ICCPS), pp. 51-62. IEEE, 2020.
 # Running the tool
 Python3 is required.
